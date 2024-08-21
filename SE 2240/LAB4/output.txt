@@ -1,0 +1,35 @@
+# Not necessaryly prinft THİS
+1.)	cno1: D 3	cno2: E 4	uniques: ABCDDFGHIJKL
+2.)	cno1: C 2	cno2: D 3	uniques: ABCCCFGHIJKL
+3.)	cno1: C 4	cno2: F 5	uniques: ABCCCCGHIJKL
+4.)	cno1: A 0	cno2: B 1	uniques: AACCCCGHIJKL
+5.)	cno1: A 1	cno2: C 4	uniques: AAAAAAGHIJKL
+6.)	cno1: G 6	cno2: H 7	uniques: AAAAAAGGIJKL
+7.)	cno1: I 8	cno2: J 9	uniques: AAAAAAGGIIKL
+8.)	cno1: A 0	cno2: A 3	uniques: AAAAAAGGIIKL
+9.)	cno1: A 2	cno2: G 6	uniques: AAAAAAAAIIKL
+10.)	cno1: A 4	cno2: I 8	uniques: AAAAAAAAAAKL
+11.)	cno1: A 2	cno2: A 0	uniques: AAAAAAAAAAKL
+12.)	cno1: A 3	cno2: A 7	uniques: AAAAAAAAAAKL
+13.)	cno1: A 5	cno2: A 9	uniques: AAAAAAAAAAKL
+14.)	cno1: A 8	cno2: L 11	uniques: AAAAAAAAAAKA
+15.)	cno1: A 1	cno2: A 5	uniques: AAAAAAAAAAKA
+16.)	cno1: A 7	cno2: A 8	uniques: AAAAAAAAAAKA
+17.)	cno1: A 6	cno2: K 10	uniques: AAAAAAAAAAAA
+18.)	cno1: A 7	cno2: A 10	uniques: AAAAAAAAAAAA
+19.)	cno1: A 10	cno2: A 11	uniques: AAAAAAAAAAAA
+20.)	cno1: A 11	cno2: A 9	uniques: AAAAAAAAAAAA
+##############################
+1.)	DE 1
+2.)	CD 2
+3.)	EF 2
+4.)	AB 3
+5.)	BE 3
+6.)	GH 3
+7.)	IJ 3
+8.)	CG 4
+9.)	EI 4
+10.)	IL 5
+11.)	GK 6
+Total weight of the minimum spanning tree: 36
+
